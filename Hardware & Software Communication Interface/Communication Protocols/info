@@ -1,0 +1,5 @@
+UART (Universal Asynchronous Receiver/Transmitter): Serial communication for microcontrollers.
+SPI (Serial Peripheral Interface): High-speed communication for sensors, displays.
+I2C (Inter-Integrated Circuit): Low-speed communication for peripherals.
+CAN (Controller Area Network): Automotive applications.
+USB (Universal Serial Bus): Widely used for peripherals.
